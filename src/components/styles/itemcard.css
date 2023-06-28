@@ -1,0 +1,10 @@
+
+
+span{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.card my-3,.card-img-top , .card-body align-items-center{
+    border:none
+}
